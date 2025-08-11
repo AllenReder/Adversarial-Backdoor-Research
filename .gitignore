@@ -1,0 +1,6 @@
+*.pth
+*.pyc
+*.pdf
+data/
+exp/
+debug/
