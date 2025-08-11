@@ -59,9 +59,9 @@ bash evaluate_backdoor.sh
 
 ### 对抗攻击结果
 
-![](exp/resnet18_cifar10_20250810_134829/lbfgs_attack/epsilon_matrix.png)
+![](assets/epsilon_matrix.png)
 
-![](exp/resnet18_cifar10_20250810_134829/lbfgs_attack/lbfgs_results.png)
+![](assets/lbfgs_results.png)
 
 
 | eps | ASR | L2 |
